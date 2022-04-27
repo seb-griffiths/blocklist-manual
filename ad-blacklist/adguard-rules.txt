@@ -32015,7 +32015,7 @@
 ||notify.adobe.io^$client='elixir'
 ||bf501.playfabapi.com^$important
 
-! General Allowing Rules
+! General Allow Rules
 @@||fonts.gstatic.com^$important
 @@||graph.instagram.com^$important
 @@||www.instagram.com^$important
