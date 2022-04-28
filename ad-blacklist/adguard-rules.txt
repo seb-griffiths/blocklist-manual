@@ -32013,7 +32013,6 @@
 
 ! Random Stuff
 ||notify.adobe.io^$client='elixir'
-||bf501.playfabapi.com^$important
 
 ! General Allow Rules
 @@||fonts.gstatic.com^$important
