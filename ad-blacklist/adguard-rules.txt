@@ -32043,7 +32043,7 @@
 @@||api.condenast.io^$important
 @@||fpa-api-arstechnica-com.parsely.com^$important
 @@||www.webmd.com^$important
-@@||metrics.icloud.com^$important
+# @@||metrics.icloud.com^$important
 @@||syndication.twitter.com^$important
 @@||cdn.syndication.twimg.com^$important
 @@||t.dripemail2.com^$important
