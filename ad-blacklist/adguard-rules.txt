@@ -32013,6 +32013,7 @@
 
 ! Random Stuff
 ||notify.adobe.io^$client='elixir'
+||b8d358f1-1426-0860-4e53-73ee79d0396a.local^$important
 
 ! General Allow Rules
 @@||fonts.gstatic.com^$important
@@ -32032,6 +32033,21 @@
 @@||click.justwatch.com^$important
 @@||disneyplus.bn5x.net^$important
 @@||firebase-settings.crashlytics.com^$important
+@@||umwatson.events.data.microsoft.com^$important
+@@||ipv6.msftconnecttest.com^$important
+@@||pf-cdn-content-prod.azureedge.net^$important
+@@||khstorelive.azureedge.net^$important
+@@||silver.xboxservices.com^$important
+@@||fpa-api.arstechnica.com^$important
+@@||d2c8v52ll5s99u.cloudfront.net^$important
+@@||api.condenast.io^$important
+@@||fpa-api-arstechnica-com.parsely.com^$important
+@@||www.webmd.com^$important
+@@||metrics.icloud.com^$important
+@@||syndication.twitter.com^$important
+@@||cdn.syndication.twimg.com^$important
+@@||t.dripemail2.com^$important
+@@||pitchfork.com^$important
 
 ! Native blocks from Next DNS
 metrics.apple.com
@@ -32074,3 +32090,17 @@ spynetalt.microsoft.com
 ! Office Telemetry
 onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
+
+! Sony TV
+api-mf1.meta.ndmdhs.com
+b02.black.ndmdhs.com
+bravia.dl.playstation.net
+call.me.sel.sony.com
+flingo.tv
+sonybivstatic-a.akamaihd.net
+facemap.foldlife.net
+bdcore-apr-lb.bda.ndmdhs.com
+tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
+api.cid.samba.tv
+#platform.cid.samba.tv #See Toshiba
+preferences.cid.samba.tv
