@@ -32015,6 +32015,7 @@
 ||notify.adobe.io^$client='elixir'
 ||b8d358f1-1426-0860-4e53-73ee79d0396a.local^$important
 
+
 ! General Allow Rules
 @@||fonts.gstatic.com^$important
 @@||graph.instagram.com^$important
@@ -32048,6 +32049,11 @@
 @@||cdn.syndication.twimg.com^$important
 @@||t.dripemail2.com^$important
 @@||pitchfork.com^$important
+@@||t.co^$important
+@@||7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com^$important
+@@||b8d358f1-1426-0860-4e53-73ee79d0396a.local^$important
+@@||trk.klclick.com^$important
+@@||www.msftconnecttest.com^$important
 
 ! Title: MMotti AdguardHome - regex.txt
 ! Description: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
