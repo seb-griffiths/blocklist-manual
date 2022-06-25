@@ -32028,8 +32028,6 @@
 @@||zarya-backend-mediator-pidzqxgs7a-uc.a.run.app^$important
 @@||web-sdk.aptrinsic.com^$important
 @@||arc.msn.com^$important
-@@||mobile-collector.newrelic.com^$important
-@@||mobile-collector.newrelic.com.cdn.cloudflare.net^$important
 @@||vod-gcs-cedexis.cbsaavideo.com^$important
 @@||click.justwatch.com^$important
 @@||disneyplus.bn5x.net^$important
