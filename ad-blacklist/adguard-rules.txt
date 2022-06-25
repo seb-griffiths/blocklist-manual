@@ -32041,6 +32041,8 @@
 @@||api.condenast.io^$important
 @@||fpa-api-arstechnica-com.parsely.com^$important
 @@||www.webmd.com^$important
+@@||syndication.twitter.com^$important
+@@||cdn.syndication.twimg.com^$important
 @@||t.dripemail2.com^$important
 @@||pitchfork.com^$important
 @@||t.co^$important
