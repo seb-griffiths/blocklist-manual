@@ -32033,7 +32033,6 @@
 @@||vod-gcs-cedexis.cbsaavideo.com^$important
 @@||click.justwatch.com^$important
 @@||disneyplus.bn5x.net^$important
-@@||firebase-settings.crashlytics.com^$important
 @@||umwatson.events.data.microsoft.com^$important
 @@||ipv6.msftconnecttest.com^$important
 @@||pf-cdn-content-prod.azureedge.net^$important
@@ -32044,7 +32043,6 @@
 @@||api.condenast.io^$important
 @@||fpa-api-arstechnica-com.parsely.com^$important
 @@||www.webmd.com^$important
-@@||metrics.icloud.com^$important
 @@||syndication.twitter.com^$important
 @@||cdn.syndication.twimg.com^$important
 @@||t.dripemail2.com^$important
