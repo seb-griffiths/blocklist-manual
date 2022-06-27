@@ -32021,7 +32021,7 @@
 @@||graph.instagram.com^$important
 @@||www.instagram.com^$important
 @@||codepush.appcenter.ms^$important
-@@||self.events.data.microsoft.com^$important
+#@@||self.events.data.microsoft.com^$important
 @@||emerald.xboxservices.com^$important
 @@||app.later.com^$important
 @@||m.stripe.network^$important
